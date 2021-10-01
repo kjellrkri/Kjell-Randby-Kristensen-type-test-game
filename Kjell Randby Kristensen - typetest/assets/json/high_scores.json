@@ -1,0 +1,474 @@
+{
+  "high_scores": [
+    {
+      "username": "HarryPotter",
+      "time": 27,
+      "wpm": 44.9
+    },
+    {
+      "username": "HarryPotter",
+      "time": 27,
+      "wpm": 41.6
+    },
+    {
+      "username": "HarryPotter",
+      "time": 30,
+      "wpm": 44.7
+    },
+    {
+      "username": "HarryPotter",
+      "time": 31,
+      "wpm": 36.7
+    },
+    {
+      "username": "HarryPotter",
+      "time": 34,
+      "wpm": 38.3
+    },
+    {
+      "username": "RonaldWeasley",
+      "time": 26,
+      "wpm": 37.3
+    },
+    {
+      "username": "RonaldWeasley",
+      "time": 36,
+      "wpm": 40.4
+    },
+    {
+      "username": "RonaldWeasley",
+      "time": 26,
+      "wpm": 43.7
+    },
+    {
+      "username": "RonaldWeasley",
+      "time": 20,
+      "wpm": 46.0
+    },
+    {
+      "username": "HermioneGranger",
+      "time": 32,
+      "wpm": 45.9
+    },
+    {
+      "username": "HermioneGranger",
+      "time": 32,
+      "wpm": 42.3
+    },
+    {
+      "username": "HermioneGranger",
+      "time": 33,
+      "wpm": 37.5
+    },
+    {
+      "username": "HermioneGranger",
+      "time": 30,
+      "wpm": 37.9
+    },
+    {
+      "username": "HermioneGranger",
+      "time": 30,
+      "wpm": 44.3
+    },
+    {
+      "username": "TomMarvoloRiddle",
+      "time": 31,
+      "wpm": 42.0
+    },
+    {
+      "username": "DracoMalfoy",
+      "time": 26,
+      "wpm": 45.2
+    },
+    {
+      "username": "DracoMalfoy",
+      "time": 33,
+      "wpm": 41.8
+    },
+    {
+      "username": "DracoMalfoy",
+      "time": 30,
+      "wpm": 44.7
+    },
+    {
+      "username": "DracoMalfoy",
+      "time": 26,
+      "wpm": 42.2
+    },
+    {
+      "username": "DracoMalfoy",
+      "time": 29,
+      "wpm": 43.6
+    },
+    {
+      "username": "LeeJordan",
+      "time": 24,
+      "wpm": 48.4
+    },
+    {
+      "username": "LeeJordan",
+      "time": 28,
+      "wpm": 45.1
+    },
+    {
+      "username": "RubeusHagrid",
+      "time": 47,
+      "wpm": 25.3
+    },
+    {
+      "username": "RubeusHagrid",
+      "time": 32,
+      "wpm": 37.9
+    },
+    {
+      "username": "RubeusHagrid",
+      "time": 40,
+      "wpm": 31.0
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 33,
+      "wpm": 34.4
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 29,
+      "wpm": 41.8
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 33,
+      "wpm": 46.0
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 31,
+      "wpm": 41.6
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 32,
+      "wpm": 36.7
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 29,
+      "wpm": 39.6
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 32,
+      "wpm": 39.9
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 24,
+      "wpm": 43.1
+    },
+    {
+      "username": "TomMarvoloRiddle",
+      "time": 29,
+      "wpm": 44.9
+    },
+    {
+      "username": "HarryPotter",
+      "time": 26,
+      "wpm": 42.7
+    },
+    {
+      "username": "HoraceSlughorn",
+      "time": 28,
+      "wpm": 43.8
+    },
+    {
+      "username": "HoraceSlughorn",
+      "time": 29,
+      "wpm": 48.9
+    },
+    {
+      "username": "HoraceSlughorn",
+      "time": 28,
+      "wpm": 40.1
+    },
+    {
+      "username": "HoraceSlughorn",
+      "time": 28,
+      "wpm": 43.3
+    },
+    {
+      "username": "HoraceSlughorn",
+      "time": 31,
+      "wpm": 43.2
+    },
+    {
+      "username": "HoraceSlughorn",
+      "time": 36,
+      "wpm": 37.6
+    },
+    {
+      "username": "HoraceSlughorn",
+      "time": 28,
+      "wpm": 44.2
+    },
+    {
+      "username": "AlbusDumbledore",
+      "time": 30,
+      "wpm": 45.5
+    },
+    {
+      "username": "AlbusDumbledore",
+      "time": 27,
+      "wpm": 46.3
+    },
+    {
+      "username": "HarryPotter",
+      "time": 31,
+      "wpm": 43.7
+    },
+    {
+      "username": "HarryPotter",
+      "time": 26,
+      "wpm": 46.6
+    },
+    {
+      "username": "HarryPotter",
+      "time": 24,
+      "wpm": 43.6
+    },
+    {
+      "username": "SeverusSnape",
+      "time": 34,
+      "wpm": 37.2
+    },
+    {
+      "username": "SeverusSnape",
+      "time": 28,
+      "wpm": 41.9
+    },
+    {
+      "username": "SeverusSnape",
+      "time": 31,
+      "wpm": 41.6
+    },
+    {
+      "username": "SeverousSnape",
+      "time": 34,
+      "wpm": 36.8
+    },
+    {
+      "username": "SeverousSnape",
+      "time": 29,
+      "wpm": 44.5
+    },
+    {
+      "username": "SeverusSnape",
+      "time": 29,
+      "wpm": 44.0
+    },
+    {
+      "username": "SeverusSnape",
+      "time": 23,
+      "wpm": 46.6
+    },
+    {
+      "username": "SeverusSnape",
+      "time": 24,
+      "wpm": 38.3
+    },
+    {
+      "username": "SeverusSnape",
+      "time": 30,
+      "wpm": 38.3
+    },
+    {
+      "username": "SeverusSnape",
+      "time": 30,
+      "wpm": 39.6
+    },
+    {
+      "username": "HarryPotter",
+      "time": 31,
+      "wpm": 42.0
+    },
+    {
+      "username": "HarryPotter",
+      "time": 36,
+      "wpm": 31.2
+    },
+    {
+      "username": "HarryPotter",
+      "time": 28,
+      "wpm": 43.8
+    },
+    {
+      "username": "HarryPotter",
+      "time": 33,
+      "wpm": 36.8
+    },
+    {
+      "username": "HarryPotter",
+      "time": 32,
+      "wpm": 41.5
+    },
+    {
+      "username": "HarryPotter",
+      "time": 29,
+      "wpm": 40.5
+    },
+    {
+      "username": "HarryPotter",
+      "time": 40,
+      "wpm": 36.1
+    },
+    {
+      "username": "NevilleLongbottom",
+      "time": 27,
+      "wpm": 51.1
+    },
+    {
+      "username": "DeloresUmbridge",
+      "time": 24,
+      "wpm": 45.2
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 26,
+      "wpm": 37.8
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 30,
+      "wpm": 45.5
+    },
+    {
+      "username": "LunaLovegood",
+      "time": 29,
+      "wpm": 44.0
+    },
+    {
+      "username": "Dobby",
+      "time": 24,
+      "wpm": 51.1
+    },
+    {
+      "username": "Dobby",
+      "time": 28,
+      "wpm": 45.6
+    },
+    {
+      "username": "Dobby",
+      "time": 26,
+      "wpm": 38.8
+    },
+    {
+      "username": "NevilleLongbottom",
+      "time": 29,
+      "wpm": 37.9
+    },
+    {
+      "username": "GeorgeWeasely",
+      "time": 24,
+      "wpm": 48.4
+    },
+    {
+      "username": "Dobby",
+      "time": 29,
+      "wpm": 40.1
+    },
+    {
+      "username": "Dobby",
+      "time": 26,
+      "wpm": 41.7
+    },
+    {
+      "username": "HarryPotter",
+      "time": 32,
+      "wpm": 39.1
+    },
+    {
+      "username": "HarryPotter",
+      "time": 25,
+      "wpm": 40.9
+    },
+    {
+      "username": "HarryPotter",
+      "time": 31,
+      "wpm": 42.8
+    },
+    {
+      "username": "HarryPotter",
+      "time": 26,
+      "wpm": 32.4
+    },
+    {
+      "username": "HarryPotter",
+      "time": 27,
+      "wpm": 42.6
+    },
+    {
+      "username": "HarryPotter",
+      "time": 27,
+      "wpm": 40.2
+    },
+    {
+      "username": "HarryPotter",
+      "time": 28,
+      "wpm": 42.4
+    },
+    {
+      "username": "HarryPotter",
+      "time": 31,
+      "wpm": 38.7
+    },
+    {
+      "username": "HarryPotter",
+      "time": 24,
+      "wpm": 41.5
+    },
+    {
+      "username": "Dobby",
+      "time": 31,
+      "wpm": 42.8
+    },
+    {
+      "username": "Dobby",
+      "time": 27,
+      "wpm": 38.8
+    },
+    {
+      "username": "Dobby",
+      "time": 26,
+      "wpm": 44.7
+    },
+    {
+      "username": "HarryPotter",
+      "time": 41,
+      "wpm": 33.0
+    },
+    {
+      "username": "HarryPotter",
+      "time": 33,
+      "wpm": 42.9
+    },
+    {
+      "username": "HalfBloodPrince",
+      "time": 26,
+      "wpm": 46.6
+    },
+    {
+      "username": "HalfBloodPrince",
+      "time": 30,
+      "wpm": 38.7
+    },
+    {
+      "username": "Kjell",
+      "time": 37,
+      "wpm": 31.4
+    },
+    {
+      "username": "kjell",
+      "time": 27,
+      "wpm": 38.8
+    }
+  ]
+}
