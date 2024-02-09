@@ -1,2 +1,2 @@
-# Kjell Randby Kristensen type test game
+# Type test game
 
